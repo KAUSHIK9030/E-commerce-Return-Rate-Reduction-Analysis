@@ -43,6 +43,7 @@ To reduce return-related losses by:
 - `E-commerce Return Rate Reduction Analysis-Report.pdf`: 1-page project summary
 - `ReturnRateAnalysis.ipynb`: Project Code
 - `high_risk_products.csv`: Exported transactions with high return probability
+- `E-Commerce_Customer_Analytics.csv`: Original Dataset
 
 ---
 
